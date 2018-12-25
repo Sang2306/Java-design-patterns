@@ -40,4 +40,3 @@ public class ShapeFactory{
     }
 }
 //Step 4 -- see FactoryPatternDemo.java
-ksdk
